@@ -1,0 +1,71 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+.idea/
+
+# Miscellaneous
+*.class
+*.lock
+*.log
+*.pyc
+*.swp
+*.DS_Store
+*.dat
+*.bak
+*.original
+*.cache
+*.directory
+*.generated.dart
+
+# Android related
+android/.gradle/
+android/app/build/
+android/app/*.keystore
+
+# iOS related
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Runner.xcworkspace/
+ios/Pods/
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Xcode related
+*.xcassets
+*.xcuserstate
+
+# VS Code related
+.vscode/
+
+# Web related
+web/.dart_tool/
+web/.firebase/
+web/.flutter-plugins
+web/.flutter-plugins-dependencies
+web/.packages
+web/build/
+
+# MacOS related
+macos/.dart_tool/
+macos/.flutter-plugins
+macos/.flutter-plugins-dependencies
+macos/.packages
+macos/build/
+
+# Windows related
+windows/.dart_tool/
+windows/.flutter-plugins
+windows/.flutter-plugins-dependencies
+windows/.packages
+windows/build/
+
+# Linux related
+linux/.dart_tool/
+linux/.flutter-plugins
+linux/.flutter-plugins-dependencies
+linux/.packages
+linux/build/

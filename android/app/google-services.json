@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10755659466",
+    "project_id": "funnychat-9d7db",
+    "storage_bucket": "funnychat-9d7db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10755659466:android:8af58df30cad0482344633",
+        "android_client_info": {
+          "package_name": "com.funnychat.funny_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGWAXy6gHXQA1LQIu3tOoOTeCmfNHivcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
